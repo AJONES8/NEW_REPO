@@ -1,6 +1,6 @@
 ---
 title: "NEW_FILE"
-format: html
+format: github_document
 editor: visual
 ---
 
